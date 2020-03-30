@@ -1,5 +1,5 @@
 ### XOX
-4 midi channel drum module for Teensy 3.2 with SGTL5000 audio shield
+5 midi channel drum module for Teensy 3.2 with SGTL5000 audio shield
 
 #### MIDI channels
 CH 6  - Kick   (tuned on note frequency)  
