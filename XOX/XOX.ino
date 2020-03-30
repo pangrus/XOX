@@ -2,7 +2,7 @@
 //                                                           //
 // _______________________X [O] X____________________________//
 //                                                           //
-//                4 midi channel drum module                 //
+//                5 midi channel drum module                 //
 //         for Teensy 3.2 with SGTL5000 audio shield         //
 //                                                           //
 //   CH 6  - Kick   (tuned on note frequency)                //
