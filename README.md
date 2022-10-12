@@ -18,5 +18,5 @@ CC 48  - Tom pitch modulation
 CC 74  - Cymbal level  
 CC 61  - Noise level  
 CC 102 - Snare level  
-Velocity is mapped on release time because of orca sequencer :-)
+Velocity is mapped on release time because of orca sequencer :-D
 
